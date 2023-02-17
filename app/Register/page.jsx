@@ -11,8 +11,8 @@ export default function Home() {
         <input type="text" id="last" name="last" />
         <label for="first">First name:</label>
         <input type="text" id="first" name="first" />
-        <label for="first">First name:</label>
-        <input type="text" id="first" name="first" />
+        <label for="datebirth">Birthdate</label>
+        <input type="date" id="datebirth" name="datebirth" />
         <button type="submit">Submit</button>
         </form>
         </body>
