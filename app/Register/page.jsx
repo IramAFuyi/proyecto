@@ -19,6 +19,8 @@ export default function Home() {
         <label htmlFor="Facebook">Facebook</label>
         <br />
         <label htmlFor="Google">Google</label>
+        <br />
+        <button type="submit">Register</button>
         </form>
         </body>
        </>
