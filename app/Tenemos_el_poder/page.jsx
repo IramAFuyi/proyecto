@@ -3,7 +3,8 @@ export default function Home() {
 
         <>
         <body>
-             <h1>Tenemos el poder </h1>
+             <h1>Esto nos urge!!!</h1>
+             <img src="images\Logo_inclusionPolitika.png" alt=""></img>
              <div id="carouselExampleInterval" class="carousel slide" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="10000">
@@ -27,6 +28,7 @@ export default function Home() {
                     </div>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus unde quasi, eos hic beatae aliquid molestiae ipsum facilis, itaque fuga assumenda magni, minus totam recusandae ut voluptatum modi nobis debitis!</p>
                     <input type="button" value="Realiza aqui tu queja con tu representante"></input>
+
         
         </body>
        
